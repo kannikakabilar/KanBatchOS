@@ -3,6 +3,6 @@ The Kan Batch OS Model is a Batch Operating System Simulator. Currently, this mo
 
 # How to Run
 Place your Python, Java, and, C programs in the Jobs directory <br />
-Navigate to kanbatchos directory (ie: cd kanbatchos) <br />
+Navigate to kanbatchos directory (ie: cd kanbatchos) and then execute below <br />
 > gcc -o kan kanbatchos.c <br />
 > ./kan 
